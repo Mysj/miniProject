@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: miniProject
+Implementation-Version: 1.0
+Built-By: Daniel Medina - danielme.com
+Extension-Name: miniProject
+Build-Jdk: 1.8.0_66
+Created-By: Maven Integration for Eclipse
+
